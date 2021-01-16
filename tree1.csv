@@ -1,0 +1,15 @@
+cuaca,temperatur,lembaban,angin,bermain
+cerah,panas,tinggi,tidak,tidak
+cerah,panas,tinggi,ya,tidak
+mendung,panas,tinggi,tidak,ya
+hujan,sedang,tinggi,tidak,ya
+hujan,dingin,normal,tidak,ya
+hujan,dingin,normal,ya,ya
+mendung,dingin,normal,ya,ya
+cerah,sedang,tinggi,tidak,ya
+cerah,dingin,normal,tidak,tidak
+hujan,sedang,normal,tidak,ya
+cerah,sedang,normal,ya,ya
+mendung,sedang,tinggi,ya,ya
+mendung,panas,normal,tidak,ya
+hujan,sedang,tinggi,ya,tidak
